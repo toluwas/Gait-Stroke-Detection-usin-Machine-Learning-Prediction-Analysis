@@ -57,8 +57,6 @@ Feature Engineering Techniques used include: Correlation Matrix, RFE, LDA, Dimen
 
 🧠 Machine Learning Models
 
-Logistic Regression
-
 Random Forest Classifier
 
 Support Vector Machine (SVM)
@@ -69,7 +67,7 @@ Evaluation metrics:
 
 Accuracy, Confusion Matrix
 
-Precision and Recall
+Precision, F1- Score, and Recall
 
 ROC Curve and AUC
 
