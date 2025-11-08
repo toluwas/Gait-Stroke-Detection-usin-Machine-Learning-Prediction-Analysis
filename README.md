@@ -1,4 +1,5 @@
-# Gait-Stroke-Detection-usin-Machine-Learning-Prediction-Analysis
+# Gait-Stroke-Detection-using-Machine-Learning-Prediction-Analysis
+# Topics: machine-learning, deep-learning, gait-analysis, stroke-detection, healthcare-ai, data-science, python, neural-networks, biomechanics, motion-analysis, classification, rehabilitation, medical-imaging, feature-extraction, predictive-modeling
 Machine learning-based stroke detection system using gait pattern analysis.
 This project focuses on developing a machine learning model for early stroke detection based on human gait analysis.
 By analyzing walking patterns captured through force plates and infrared motion sensors, the model identifies gait abnormalities that may indicate neurological damage or risk of stroke.
